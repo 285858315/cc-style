@@ -1,0 +1,6 @@
+@import "variable";
+.a1{
+	display: flex;
+	color: $blue;
+	background: $blue-1;
+}
